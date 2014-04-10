@@ -1,7 +1,13 @@
 plz
 ===
 
+Synopsis
+--------
+
 This is the design document for plz, the friendly helper. Plz is a tool used to automate some of the common tasks of project development, no matter what the project is. No doubt a lofty goal, which means care must be taken in the design of plz so it doesn't overstep its boundaries.
+
+Description
+-----------
 
 Plz is a:
 
@@ -28,3 +34,8 @@ While plz lends itself well to programming projects, it does not assume the proj
 This is the core tenet of plz: it acts on human readable documentation. Plz is configured through documentation, that contain just enough structure so as to be meaningful. It assumes the documentation is written in [Markette], or a sufficiently compatible format – if it looks and smells like Markette, plz can probably make sense of it.
 
 [Markette]: https://github.com/mstade/markette
+
+See also
+--------
+
+TBD
